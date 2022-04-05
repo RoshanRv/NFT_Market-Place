@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "NFT_Market_Place",
+    "slug": "NFT_Market_Place",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/log.png",
+    "splash": {
+      "image": "./assets/log.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/log.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.roshanrv.NFT_Market_Place"
+    },
+    "web": {
+      "favicon": "./assets/log.png"
+    }
+  }
+}

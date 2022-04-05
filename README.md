@@ -2,7 +2,7 @@
 
 Modern UI/UX React Native App.
 
-![Preview_NFT_Market-Place](https://ibb.co/T145mZ6)
+![Preview_NFT_Market-Place](https://i.ibb.co/68H5g2z/app.png)
 
 ## General Info
 
